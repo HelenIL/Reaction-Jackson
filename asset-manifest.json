@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Reaction-Jackson/static/css/main.2e6a1a9d.chunk.css",
+    "main.js": "/Reaction-Jackson/static/js/main.6e5a52e4.chunk.js",
+    "main.js.map": "/Reaction-Jackson/static/js/main.6e5a52e4.chunk.js.map",
+    "runtime-main.js": "/Reaction-Jackson/static/js/runtime-main.bba7b309.js",
+    "runtime-main.js.map": "/Reaction-Jackson/static/js/runtime-main.bba7b309.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Reaction-Jackson/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.34258517.chunk.js": "/Reaction-Jackson/static/js/2.34258517.chunk.js",
+    "static/js/2.34258517.chunk.js.map": "/Reaction-Jackson/static/js/2.34258517.chunk.js.map",
+    "index.html": "/Reaction-Jackson/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Reaction-Jackson/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.2e6a1a9d.chunk.css.map": "/Reaction-Jackson/static/css/main.2e6a1a9d.chunk.css.map",
+    "static/js/2.34258517.chunk.js.LICENSE.txt": "/Reaction-Jackson/static/js/2.34258517.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bba7b309.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.34258517.chunk.js",
+    "static/css/main.2e6a1a9d.chunk.css",
+    "static/js/main.6e5a52e4.chunk.js"
+  ]
+}
