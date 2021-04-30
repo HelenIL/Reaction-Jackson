@@ -81,12 +81,12 @@ class Table extends React.Component {
             <table className="table table-striped table-resposive text-center table-hover">
                 <thead>
                   <tr>
-                    <th>Image</th>
-                    <th>First Name <span className="fas fa-sort" onClick={this.sortByFName}></span></th>
-                    <th>Last Name <span className="fas fa-sort" onClick={this.sortByLName}></span></th>
-                    <th>Phone</th>
-                    <th>Email</th>
-                    <th>DOB </th>
+                    <th><i class="fas fa-camera fa-2x"></i></th>
+                    <th>First Name <span className="fas fa-sort fm" onClick={this.sortByFName}></span></th>
+                    <th>Last Name <span className="fas fa-sort fm" onClick={this.sortByLName}></span></th>
+                    <th>Phone &nbsp;&nbsp;<i class="fas fa-phone-alt fm"></i></th>
+                    <th>Email &nbsp;&nbsp;<i class="fas fa-paper-plane fm"></i></th>
+                    <th>DOB &nbsp;&nbsp;<i class="fas fa-birthday-cake fm"></i></th>
                   </tr>
                 </thead>
 

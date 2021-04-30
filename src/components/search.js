@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./styles.css";
 
 const Search = (props) => {
 
@@ -7,7 +7,7 @@ const Search = (props) => {
         <form>
     <div className="form-group search-widget">
       <div className="input-group mb-3">
-  
+      <i class="fas fa-search fa-lg srch"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <input
           onChange={props.handleInputChange}
           value={props.search}
