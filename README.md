@@ -21,6 +21,7 @@ employee information.
 <br>
 <img src="./assets/empdir.png">
 <br>
+
 ---
 
 <h2>View deployment: <a href="https://helenil.github.io/Reaction-Jackson/">Reaction Jackson</a></h2>
